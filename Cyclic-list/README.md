@@ -20,4 +20,9 @@ operations is still linear, but constant is much lower.
 <hr>
 
 ### Operations:
-  
+
+  * **merge** - merging two lists rewritting first list into new one and then second one. Complexity is O(size1 + size2).
+  * **add** - adding element (integer) to a given list. New node is added just before head. Complexity is O(1).
+  * **delete** - deletion of element at given index in a list. Linear complexity.
+  * **check** - boolean method, returning true if given value is in a list and false otherwise. Complexity is linear.
+  * **find** - method returning value at given index in a list.
