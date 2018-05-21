@@ -7,7 +7,6 @@ Implementation of singly linked list written in C, based on structures. Each nod
 ![](https://image.ibb.co/mYZ6mT/408px_Singly_linked_list.png)
 
 <hr>
-<br>
 
 ### Operations:
 
