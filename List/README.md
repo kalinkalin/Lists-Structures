@@ -16,5 +16,5 @@ Implementation of singly linked list written in C, based on structures. Each nod
   * **check** - boolean function returning true when given element is in a list, false otherwise.
   * **find** - function returning value of element at given index. Complexity O(size).
   
-Worst case of add, delete, check and find operations is O(size) because if we want to get to a last element of a list we have to 
+Worst case of delete, check and find operations is O(size) because if we want to get to a last element of a list we have to 
 pass all the elements starting from head and moving upwards.
