@@ -1,6 +1,6 @@
 ## Linked list
 
-Implementation of singly linked list written in C, based on structures. Each node is contained of value field and pointer to next node in a list. There is specified first element in a list (head) and last element in a list (tail). 
+Implementation of singly linked list written in C, based on structures. Each node is build of value field and pointer to next node in a list. There is specified first element in a list (head) and last element in a list (tail). 
 
 <br>
 
