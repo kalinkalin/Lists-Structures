@@ -1,6 +1,6 @@
 ## FIFO queue
 
-Typical implementation of FIFO. Each node contains value field and pointer to the previous element. There are two types of operations available, both of O(1) complexity :
+Typical implementation of FIFO written in C, based on structures. Each node contains value field and pointer to the previous element. There are two types of operations available, both of O(1) complexity :
 
 * **enqueue** - operation of adding new element at the end of queue.
 * **dequeue** - operation of getting first element out of queue.
