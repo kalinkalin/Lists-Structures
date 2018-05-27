@@ -1,4 +1,4 @@
-# Lists structures
+## Lists structures
 
 This repository contains a few types of list data structers written in C. Further specification is written in given sub-directories.
 
